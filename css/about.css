@@ -1,0 +1,13 @@
+h1 {
+    padding-top: 100px;
+    text-align: left;
+    left: 50px
+}
+p {
+    left: 50px;
+    top: 10px;
+}
+img {
+    max-width: 240px;
+    
+}
