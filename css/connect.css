@@ -1,0 +1,16 @@
+.card {
+    position: relative;
+}
+.container {
+    
+    padding-top: 250px;
+    margin: 50%;
+
+}
+.cont-nav {
+    position: center;
+    display: block;
+    box-sizing: border-box;
+    width: 50px;
+    padding-top: 90px;
+}
