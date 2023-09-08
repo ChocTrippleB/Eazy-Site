@@ -23,13 +23,14 @@
     margin-top: 0;
 }
 .image-section {
-    align-content: end;
+    align-items: end;
     float: right;
     width: 60%;
 }
 .image-section img {
     width: 100%;
     height: auto;
+    border-radius: 1%;
 }
 .content-section .content .title {
     text-transform: uppercase;
