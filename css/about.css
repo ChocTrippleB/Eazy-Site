@@ -6,7 +6,7 @@
 }
 
 .section {
-    width: 80%;
+    width: 100%;
     min-height: 100vh;
     background-color: #ddd;
 }
@@ -14,16 +14,18 @@
     width: 80%;
     display: block;
     margin: auto;
-    padding-top: 100px;
+    padding-top: 80px;
+    align-items: flex;
 }
 .content-section {
     float:left;
-    width:55%;
+    width:100%;
     margin-top: 0;
 }
 .image-section {
+    align-content: end;
     float: right;
-    width: 40%;
+    width: 60%;
 }
 .image-section img {
     width: 100%;
@@ -44,4 +46,5 @@
     font-size: 18px;
     line-height: 1.5;
 }
+
 
