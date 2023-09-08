@@ -74,7 +74,7 @@
     font-weight: bold;
     transition: all 0.5s ease;
   }
-  span {
+  .tab_head span {
     color: dodgerblue;
   }
   
@@ -130,7 +130,7 @@
   }
   
   .tc_wrap .tabs_content .tab_foot button.agree{
-     background: orange;
+     background: #fdba3d;
     border-color: black;
     color: white;
   }
